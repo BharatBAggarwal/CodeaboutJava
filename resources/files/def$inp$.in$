@@ -1,0 +1,11 @@
+-< ------ Course Report Card ------ >-
+- File Name: def$inp$.in$
+- Default Input for CollegeCourseFileIO Class
+- on 2016-06-24 at 17:09:33.147
+-< --------- Course Input --------- >-
+Course Number                : AJC-101
+Course Name                  : My favorite course
+Number of Students (Max 100) : 1
+-< ---------- Marks List ---------- >-
+Student 1  :  100.0
+-< ---------- End of File --------- >-

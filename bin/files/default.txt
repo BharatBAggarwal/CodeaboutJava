@@ -1,0 +1,2 @@
+Price of product  :  100.0
+Description       : Chair
